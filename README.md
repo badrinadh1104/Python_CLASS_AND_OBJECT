@@ -1,2 +1,2 @@
-# Python_OPP-s
+# Python_OPP's
 INHERITANCE CONCEPT
